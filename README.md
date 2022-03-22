@@ -10,4 +10,5 @@ Something about me:
 - 📫 How to reach me: http://www.linkedin.com/in/2022yl
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: A head full of wisdom~
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linda219go&show_icons=true&theme=radical)
