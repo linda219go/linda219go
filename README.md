@@ -1,8 +1,6 @@
 ### Hi, there! I'm Lynn, nice to see you! 👋
 
-Results-focused Java Developer | Experience With Web Development In HTML, CSS, JavaScript | Actively Seeking Entry-Level Programming Position
-
-Here are some ideas to get you started:
+Something about me:
 
 - 🔭 I’m currently working on Self-learning on Cousera
 - 🌱 I’m currently learning React & Angular
