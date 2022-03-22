@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, there! I'm Lynn, nice to see you! 👋
 
-<!--
-**linda219go/linda219go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Results-focused Java Developer | Experience With Web Development In HTML, CSS, JavaScript | Actively Seeking Entry-Level Programming Position
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Self-learning on Cousera
+- 🌱 I’m currently learning React & Angular
+- 👯 I’m looking to collaborate on React
+- 🤔 I’m looking for help with SCSS
+- 💬 Ask me about Anything
+- 📫 How to reach me: http://www.linkedin.com/in/2022yl
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: A head full of wisdom~
 -->
