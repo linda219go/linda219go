@@ -3,7 +3,7 @@
 Something about me:
 
 - 🔭 I’m currently working on Self-learning on Cousera
-- 🌱 I’m currently learning React & Angular
+- 🌱 I’m currently learning React, Angular & SpringBoot
 - 👯 I’m looking to collaborate on React
 - 🤔 I’m looking for help with SCSS
 - 💬 Ask me about Anything
