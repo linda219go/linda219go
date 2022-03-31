@@ -14,3 +14,4 @@ Something about me:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linda219go&show_icons=true&theme=radical)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linda219go)](https://github.com/anuraghazra/github-readme-stats)
