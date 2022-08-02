@@ -3,12 +3,10 @@
 Something about me:
 
 - 🔭 I’m currently working on Self-learning
-- 🌱 I’m currently learning React, Angular & SpringBoot
-- 👯 I’m looking to collaborate on React
-- 🤔 I’m looking for help with SCSS
+- 🌱 I’m currently learning Spring Security
+- 👯 I’m looking to collaborate on simple project in Java
+- 🤔 I’m looking for entry-level Java developing position
 - 📫 How to reach me: http://www.linkedin.com/in/2022yl
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: A head full of wisdom~
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linda219go&show_icons=true&theme=radical)
 
